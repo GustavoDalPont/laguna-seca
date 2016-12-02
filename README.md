@@ -1,3 +1,3 @@
 # laguna-seca
 :tada:
-### laguna-seca é uma pista de corrida
+## laguna-seca é uma pista de corrida
